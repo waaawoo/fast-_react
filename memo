@@ -1,0 +1,24 @@
+yarn initでpkg.jsonを作成
+ 作成時は全てエンター良い
+
+yarn addで必要なパッケージを導入とパッケージjsonへ記述
+ webpack 基本のwebpack
+ webpack-dev-server webpackをローカルで動かすライブラリ
+
+ES2015を使用するためのパッケージ
+ babel-core
+ babel-loader
+
+reactをコンパイルするためのパッケージ
+babel-preset-react
+
+ES2015をコンパイルするためのパッケージ
+babel-preset-es2015
+
+
+reactとは
+Facebookが作ったJavaScriptの
+UIライブラリ
+フレームワークじゃない
+viewの部分を作成するもの ※役割はviewだけ
+
